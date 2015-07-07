@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* Main
+java -jar target/webapp-runner-7.0.22.1.jar target/RestService.war
